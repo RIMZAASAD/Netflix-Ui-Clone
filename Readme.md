@@ -51,9 +51,10 @@ Netflix-Ui-Clone/
 Example:
 
 ```
+<img width="1353" height="605" alt="netf" src="https://github.com/user-attachments/assets/e5b8e1f0-51d8-4667-8f3b-6beea8e95a30" />
 
-```![Uploading netf.PNG…]()
 
+```
 
 ---
 
@@ -81,4 +82,5 @@ This project was created for frontend practice and UI improvement.
 ---
 
 ⭐ If you found this helpful, consider giving the repo a star!
+
 
